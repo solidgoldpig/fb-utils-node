@@ -7,6 +7,7 @@ test('When requiring FBUtils', t => {
 
   t.ok(methodNames.includes('FBLogger'), 'it should export FBLogger method')
   t.ok(methodNames.includes('FBError'), 'it should export FBError method')
+  t.ok(methodNames.includes('FBTest'), 'it should export FBTest method')
   t.ok(methodNames.includes('clone'), 'it should export clone method')
   t.ok(methodNames.includes('deepClone'), 'it should export deepClone method')
 
