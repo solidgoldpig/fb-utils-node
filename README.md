@@ -5,13 +5,13 @@ Form Builder utility methods
 ## Installing
 
 ``` shell
-npm install @ministryofjustice/fb-utils-node
+npm install @solidgoldpig/fb-utils-node
 ```
 
 ## Usage
 
 ``` js
-const FBUtils = require('@ministryofjustice/fb-utils-node')
+const FBUtils = require('@solidgoldpig/fb-utils-node')
 ```
 
 ## Methods
